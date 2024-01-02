@@ -556,3 +556,6 @@ width: 100%;
     .box-name{
         margin-top: 0.5rem;
     }
+    img{
+        cursor: pointer;
+    }
